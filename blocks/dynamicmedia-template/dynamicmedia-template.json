@@ -23,7 +23,7 @@
       "fields": [
         {
           "component": "select",
-          "name": "template_Type",
+          "name": "template_type",
           "value": "dm-template",
           "label": "Delivery Type",
           "description": "Select the type of template to be rendered.",
