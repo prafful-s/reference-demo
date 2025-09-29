@@ -24,7 +24,7 @@
         {
           "component": "select",
           "name": "template_type",
-          "value": "dm-template",
+          "value": "na",
           "label": "Template Type",
           "description": "Select the type of template to be rendered.",
           "valueType": "string",
