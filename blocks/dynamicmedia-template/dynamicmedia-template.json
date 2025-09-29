@@ -23,6 +23,20 @@
       "fields": [
         {
           "component": "select",
+          "name": "template_Type",
+          "value": "dm-template",
+          "label": "Delivery Type",
+          "description": "Select the type of template to be rendered.",
+          "valueType": "string",
+          "options": [
+            {
+              "name": "Dynamic Media Template",
+              "value": "dm-template"
+            }
+          ]
+        },
+        {
+          "component": "select",
           "name": "config_source",
           "value": "inline",
           "label": "Template Config Source",
