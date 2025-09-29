@@ -1005,10 +1005,14 @@
           "component": "select",
           "name": "template_type",
           "value": "dm-template",
-          "label": "Delivery Type",
+          "label": "Template Type",
           "description": "Select the type of template to be rendered.",
           "valueType": "string",
           "options": [
+            {
+              "name": "--Select Template Type--",
+              "value": "na"
+            },
             {
               "name": "Dynamic Media Template",
               "value": "dm-template"
